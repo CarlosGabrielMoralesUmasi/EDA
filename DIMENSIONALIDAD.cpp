@@ -1,7 +1,7 @@
 //////////https://replit.com/@Carlos_Gabriel1/eda12#main.cpp 
 //////////REPLIT//////
 
-include <iostream>
+#include <iostream>
 #include <random>
 #include <math.h>
 #include <vector>
